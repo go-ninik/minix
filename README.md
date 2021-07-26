@@ -1,2 +1,2 @@
 # minix
-minix website :D
+[Minix Website 😀]("https://go-ninik.github.io/minix/")
